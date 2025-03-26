@@ -39,8 +39,8 @@ This repository documents my learning journey in Data Science through the Santan
 - Projects that simulate real data scientist challenges
 </details>
 
-<details>
-<summary><b>⚠️ Note</b> (Click to expand)</summary>
+<details open>
+<summary><b>⚠️ Note</b> </summary>
 
 > **Important note**: This bootcamp was originally offered in 2023, but I am completing it in 2025 as part of the benefits of being a Global Student at DIO (Digital Innovation One). The platform allows continuous access to educational content even after the official period ends, enabling students like me to take advantage of the opportunity to develop these skills at a later date.
 
