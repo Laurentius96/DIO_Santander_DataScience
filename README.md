@@ -480,7 +480,7 @@ DIO_Santander_DataScience/
 │   ├── Supervised_Algorithms/
 │   └── Unsupervised_Algorithms/
 ├── .gitignore
-├── LICENSE
+├── LICENSE.md
 └── README.md
 ```
 </details>
@@ -510,7 +510,7 @@ This project is licensed under the [MIT License](LICENSE).
 - ⚠️ **Limited liability** — The software is provided "as is", without warranty of any kind
 - ⚠️ **Attribution required** — You must include the original copyright notice and permission notice in any copy of the software
 
-For the complete terms of the MIT License, see the [LICENSE](LICENSE) file in this repository.
+For the complete terms of the MIT License, see the [LICENSE](LICENSE.md) file in this repository.
 </details>
 
 ## 📫 Contact
