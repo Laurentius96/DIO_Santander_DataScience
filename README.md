@@ -497,20 +497,18 @@ This repository is regularly updated with new materials and projects as I progre
 ## 📜 License
 
 <details open>
-<summary><b>MIT License</b></summary>
+<summary><b>CC BY-NC-ND 4.0 License</b></summary>
 
-This project is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ### What this means:
 
-- ✅ **Permission to use** — You can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software
-- ✅ **Open source** — The source code is made available with minimal restrictions on its use
-- ✅ **Commercial use allowed** — You can use the software for commercial purposes
-- ✅ **Modification allowed** — You can modify the source code and create derivative works
-- ⚠️ **Limited liability** — The software is provided "as is", without warranty of any kind
-- ⚠️ **Attribution required** — You must include the original copyright notice and permission notice in any copy of the software
+- ✅ **You can share** — You are free to copy and redistribute the material in any medium or format
+- ❌ **No commercial use** — You may not use the material for commercial purposes
+- ❌ **No derivatives** — You may not remix, transform, or build upon the material
+- ✅ **Attribution required** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 
-For the complete terms of the MIT License, see the [LICENSE](LICENSE.md) file in this repository.
+For the complete license terms, please see the [LICENSE.md](LICENSE.md) file.
 </details>
 
 ## 📫 Contact
