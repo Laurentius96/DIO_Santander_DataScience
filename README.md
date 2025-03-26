@@ -491,6 +491,7 @@ This repository is regularly updated with new materials and projects as I progre
 
 <details>
 <summary><b>📋 Update Log</b> (Click to expand)</summary>
+  
 - **March/2025**: Bootcamp start and repository setup
 </details>
 
