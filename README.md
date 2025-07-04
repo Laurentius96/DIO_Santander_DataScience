@@ -1,6 +1,6 @@
-# DIO_Santander_DataScience
+<div align="center">  <h1> DIO | Santander: Data Science </div>
 
-<div align="center">
+  <div align="center">
   <h3>Santander Bootcamp 2023 - Data Science with Python</h3>
   <p><i>Materials, exercises, and projects developed during the bootcamp sponsored by Santander in partnership with DIO</i></p>
 </div>
